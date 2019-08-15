@@ -9,7 +9,6 @@ notifications:
     on_failure: always
 
 os:
-  - linux
   - osx
 
 # Test notebooks in parallel
